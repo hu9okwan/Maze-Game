@@ -1,0 +1,9 @@
+{% extends "base.html" %} {% block content %}
+
+<ul>
+    {% for score in high_scores %}
+    <li>{{ score.name}}: {{ score.score }} at {{ score.date }}</li>
+    {% endfor %}
+</ul>
+
+{% endblock %}
