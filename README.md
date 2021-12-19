@@ -23,21 +23,12 @@ To see your highscores stored on a webpage once you have completed a few games:
 
 
 ## Controls
+WASD to move up, left, down, right respectively
+- Pressing the key will move the Player one spot.
+- Holding the key down will move the Player continuously at a rate of one spot per second.
 
-- Pressing the W key will allow the Player to move one spot up.
-- Holding the W key down will allow the Player to continuously move up at a rate of one spot per second.
-  A Key
-- Pressing the A key will allow the Player to move one spot left
-- holding the A key down will allow the Player to continuously move left at a rate of one spot per second.
-  S Key
-- Pressing the S key will allow the Player to move one spot down
-- Holding the S key down will allow the Player to continuously move down at a rate of one spot per second.
-  D Key
-- Pressing the D key will allow the Player to move one spot right
-- Holding the D key down will allow the Player to continuously move right at a rate of one spot per second.
-  Q and ESC Key
+Q or ESC
 - Pressing the Q or ESC key will close the pygame window
-
 
 
 
