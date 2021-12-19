@@ -1,4 +1,4 @@
-# Maze Game
+# Maze Game 🕹️
 A basic maze game that utilizes the pygame library.
 
 ## Dependencies
