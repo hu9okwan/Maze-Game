@@ -1,5 +1,7 @@
 # Maze Game 🕹️
-A basic maze game that utilizes the pygame library.
+A basic maze game that utilizes object oriented programming on the pygame library.
+
+![Maze Game](./maze.png)
 
 ## Dependencies
 The dependencies required to run this game are Python 3, Flask, and Pygame
